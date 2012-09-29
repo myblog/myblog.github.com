@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Life | Just Do It]]></title>
-  <link href="http://jaric.github.com/blog/categories/life/atom.xml" rel="self"/>
-  <link href="http://jaric.github.com/"/>
-  <updated>2012-09-29T03:57:18+08:00</updated>
-  <id>http://jaric.github.com/</id>
+  <link href="http://myblog.github.com/blog/categories/life/atom.xml" rel="self"/>
+  <link href="http://myblog.github.com/"/>
+  <updated>2012-09-29T14:12:13+08:00</updated>
+  <id>http://myblog.github.com/</id>
   <author>
     <name><![CDATA[Jaric]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Todo List]]></title>
-    <link href="http://jaric.github.com/blog/2012/09/29/todo-list/"/>
+    <link href="http://myblog.github.com/blog/2012/09/29/todo-list/"/>
     <updated>2012-09-29T03:32:00+08:00</updated>
-    <id>http://jaric.github.com/blog/2012/09/29/todo-list</id>
+    <id>http://myblog.github.com/blog/2012/09/29/todo-list</id>
     <content type="html"><![CDATA[<ul>
 <li>Hadoop</li>
 <li>Mobile app</li>

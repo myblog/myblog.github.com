@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jaric.github.com/blog/2012/09/29/todo-list/</loc>
+        <loc>http://myblog.github.com/blog/2012/09/29/todo-list/</loc>
         <lastmod>2012-09-29T03:50:02+08:00</lastmod>
     </url>
     <url>
-        <loc>http://jaric.github.com/blog/archives/</loc>
+        <loc>http://myblog.github.com/blog/archives/</loc>
         <lastmod>2012-09-29T03:50:02+08:00</lastmod>
     </url>
     <url>
-        <loc>http://jaric.github.com/</loc>
+        <loc>http://myblog.github.com/</loc>
         <lastmod>2012-09-29T03:50:02+08:00</lastmod>
     </url>
 </urlset>
